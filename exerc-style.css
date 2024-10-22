@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(240, 235, 235);
+    margin: 0%;
+    width: 70%;
+    max-width: 400px;
+    /* largura maxima de tela*/
+    padding: 30px;
+    /*espaçamento interno*/
+
+}
+
+
+h1 .principal {
+
+    color: blue;
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    /*revisar margem*/
+}
+
+
+h2 {
+
+    color: blue;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+
+}
+
+p {
+    color: rgb(73, 73, 80);
+    
+}
+
+
+.menu a {
+    background-color: blue;
+    color: white;
+    display: block;
+    text-decoration: none;
+    /*retira o sublinhado*/
+    margin-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
